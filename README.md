@@ -1,2 +1,1 @@
-# fuzzy-search-react
-Created with CodeSandbox
+Template used -> https://github.com/NaveenDA/fuzzy-search-react
